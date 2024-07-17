@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+ok
+1
+=======
 <div align="center">
   <figure>
     <a href="https://github.com/zpy1160390580/ybj-PicGo-picture-bed" target="_blank" rel="noopener">
@@ -6,3 +10,5 @@
     <figcaption> <p align="center"> 图片云端版，不丢失。😁😁😁 内容还在持续更新中... </p> </figcaption>
   </figure>
 </div>
+
+>>>>>>> 382aabde7e0aab5a9c16741f25d00810ab187c0d
